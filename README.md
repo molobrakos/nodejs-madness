@@ -1,4 +1,4 @@
-just illustrating the madness of the nodejs ecosystem where installing [gatsby](https://www.gatsbyjs.org), a popular static site generator, pulls down a total of 964 package dependencies
+just illustrating the madness of the nodejs ecosystem where installing [gatsby](https://www.gatsbyjs.org), a popular static site generator, pulls down a total of **964** package dependencies
 
 Output:
 
